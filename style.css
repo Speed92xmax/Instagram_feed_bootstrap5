@@ -1,0 +1,31 @@
+
+.btn-light{
+    background-color: rgb(211, 209, 209) !important;
+  }
+  
+  .card_header{
+      display: flex;
+      justify-content: space-between;
+      padding: 1rem;
+  }
+  
+  .card_header p{
+      font-weight: bold;
+      color:grey
+  }
+  .card-post{
+      max-width: 500px;
+      height: auto;
+      background-color: rgb(241, 241, 241);
+      border:  1.5px solid rgb(209, 209, 209);
+      border-radius: 4px;
+  }
+  
+  figure img, div[class="col p-1"] img{
+  
+      width:100%;
+      min-width: 200px;
+      height:auto;
+  }
+  
+  
